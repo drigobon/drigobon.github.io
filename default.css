@@ -60,6 +60,14 @@
 		width:80%;
 		max-width: 1175px;
 	}
+
+
+	@media screen and (max-width: 480px) {
+		.container{
+			width:100%;
+		}
+	}
+
 	
 /*********************************************************************************/
 /* Image Style                                                                   */
